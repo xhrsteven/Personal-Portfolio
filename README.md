@@ -1,5 +1,4 @@
-# Personal-Portfolio
-
 ## Welcome to My Portfolio
 
-![screenshot](/public/img/page.png)
+
+![screenshot](/public/img/page.PNG)
